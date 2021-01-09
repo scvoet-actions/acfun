@@ -1,0 +1,28 @@
+[
+  {
+    "status": 1,
+    "date": "20181026",
+    "account": {
+      "username": "",
+      "password": ""
+    },
+    "token": {
+      "access_token": "",
+      "acPasstoken": "",
+      "auth_key": ""
+    }
+  },
+  {
+    "status": 0,
+    "date": "20181026",
+    "account": {
+      "username": "",
+      "password": ""
+    },
+    "token": {
+      "access_token": "",
+      "acPasstoken": "",
+      "auth_key": ""
+    }
+  }
+]
